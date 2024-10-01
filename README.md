@@ -18,7 +18,7 @@
 This project holds the implementation of Staknet staking mechanism.
 Following Starknet [SNIP 18](https://community.starknet.io/t/snip-18-staking-s-first-stage-on-starknet/114334)
 
-[Overview drawing](https://drive.google.com/file/d/1ZoAqRSu5Hlgc7xh10eVnSDWkEu49sQRj/view) 
+![starknet-diagram](https://res.cloudinary.com/droqoz7lg/image/upload/v1727757597/company/gqdgqmh6xasd4u4nhjdf.png)
 
 
 - [Documentation](https://github.com/starkware-libs/starknet-staking/tree/main/docs)
